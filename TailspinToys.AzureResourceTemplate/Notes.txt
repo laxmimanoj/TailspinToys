@@ -1,0 +1,9 @@
+dev-key
+myAppInsightsInstrumentationKey 1e04f38b-73b4-4b91-b0de-1cf6cadc03f6
+=================================================================================
+test-key
+myAppInsightsInstrumentationKey  9b2f4f4a-239a-4a8c-b0c5-2ce9eb00ae43
+=================================================================================
+prod-key
+myAppInsightsInstrumentationKey
+=================================================================================
